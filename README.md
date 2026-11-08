@@ -11,7 +11,7 @@ O SEVEN Tools foi concebido para o ecossistema do SEVEN, clube empresarial funda
 | **Anuidade** | Até **R$ 100 mil** |
 | **Demanda por ingresso** | Cerca de **200 empresários na fila de espera** |
 
-Fonte: [PressWorks / Valor Econômico — 07/10/2025](https://valor.globo.com/patrocinado/pressworks/noticia/2025/10/07/seven-o-clube-de-r-100-mil-onde-carater-vale-mais-que-faturamento.ghtml), conteúdo patrocinado.
+Fonte: [PressWorks / Valor Econômico — 07/10/2025](https://valor.globo.com/patrocinado/pressworks/noticia/2025/10/07/seven-o-clube-de-r-100-mil-onde-carater-vale-mais-que-faturamento.ghtml).
 
 ## Ferramentas
 
