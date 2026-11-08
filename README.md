@@ -2,6 +2,17 @@
 
 Hub de ferramentas comerciais com IA, concebido para membros do ecossistema SEVEN. A interface em React e TypeScript reúne propostas, diagnóstico comercial e qualificação de leads, integrada a uma [API FastAPI](https://github.com/GuilhermeSerafim/seven-tools-api).
 
+## Contexto de negócio
+
+O SEVEN Tools foi concebido para o ecossistema do SEVEN, clube empresarial fundado por Dennis Nakamura e João Freitas. Em **7 de outubro de 2025**, a PressWorks publicou no Valor Econômico os seguintes números do clube:
+
+| Indicador do clube SEVEN | Dado divulgado |
+| --- | --- |
+| **Anuidade** | Até **R$ 100 mil** |
+| **Demanda por ingresso** | Cerca de **200 empresários na fila de espera** |
+
+Fonte: [PressWorks / Valor Econômico — 07/10/2025](https://valor.globo.com/patrocinado/pressworks/noticia/2025/10/07/seven-o-clube-de-r-100-mil-onde-carater-vale-mais-que-faturamento.ghtml), conteúdo patrocinado.
+
 ## Ferramentas
 
 | Ferramenta | O que faz |
