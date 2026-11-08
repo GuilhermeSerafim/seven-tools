@@ -11,7 +11,6 @@ Hub de ferramentas comerciais com IA, concebido para membros do ecossistema SEVE
 | **Radar de Leads** | Qualifica e prioriza oportunidades a partir do perfil de cliente ideal (ICP), pesos e faixas de score, com cadastro de leads, fila de atendimento e apoio por chat. |
 | **Sales Caloni** | O **Sales Copilot Caloni** estava em desenvolvimento para apoiar o closer/vendedor durante e após reuniões comerciais. |
 
-A validação Caloni faz parte do fluxo de propostas. As três ferramentas estão no módulo Comercial; Marketing, Operação e Financeiro têm áreas de navegação, ainda sem ferramentas no catálogo.
 
 ## Ritual local
 
